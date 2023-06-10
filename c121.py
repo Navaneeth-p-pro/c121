@@ -59,7 +59,3 @@ while (cap.isOpened()):
 cap.release()
 out.release()
 cv2.destroyAllWindows()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
